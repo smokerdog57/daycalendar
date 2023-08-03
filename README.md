@@ -1,10 +1,12 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-## Your Task
+#### Coder: Tom Fusco 3-Aug-2023
+#### 05 Third-Party APIs: Work Day Scheduler
 
-Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+<img src="Assets/mockup/05-third-party-apis-homework-demo.gif" width=50%>
 
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+#### Link to Deployed Application:  https://smokerdog57.github.io/codequiz/
+#### Link to GitHub repository:     https://github.com/smokerdog57/codequiz/
 
 ## User Story
 
@@ -13,8 +15,7 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
-
-## Acceptance Criteria
+## Application Requirements 
 
 ```md
 GIVEN I am using a daily planner to create a schedule
@@ -32,10 +33,69 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+
+## Mock-Up
+
 The following animation demonstrates the application functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+<img src="Assets/mockup/05-third-party-apis-homework-demo.gif" width=75%>
+
+## Build, Installation and Deployment
+
+ * Application built using MS Visual Studio.
+ * Application was commited and pushed to GitHub repository "codequiz" main branch.
+ * Used GitHub "pages" to deploy application.
+
+## Quality
+
+* Application resembles mock-up.
+* Repository has a unique name.
+* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository contains multiple descriptive commit messages.
+* Repository contains quality README file with description, screenshot, and link to deployed application.
+
+## Technologies used
+
+ * HTML
+ * CSS
+ * Javascript
+ * Web Api(s)
+  - jQuery
+  - dayjs
+  - bootstrap
+
+## Credits
+
+ * Tutoring session with Sandy
+ * Consultation with my peer students
+ * Slack resource channel
+
+## License
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+***************************************************************
+# 
+
+## Your Task
+
+Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+
+
+
+
+
 
 ## Grading Requirements
 
